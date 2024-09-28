@@ -19,7 +19,7 @@ Git
 
 ### Installation instruction
 clone the repository below
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://mubarak-baka.github.io/codechallenge/
 navigate to the project directory, this will give you acces to the three files files contained in the folder 
 
 ```
