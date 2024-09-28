@@ -22,8 +22,6 @@ clone the repository below
 Git clone https://mubarak-baka.github.io/codechallenge/
 navigate to the project directory, this will give you acces to the three files files contained in the folder 
 
-```
-
 # Live Link
  https://mubarak-baka.github.io/codechallenge/  click on the link to view this project 
 
